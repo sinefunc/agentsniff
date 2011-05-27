@@ -1,3 +1,8 @@
+**Note:** This is now deprecated in favor of sinatra-support. See:
+
+ * http://sinefunc.com/sinatra-support (Sinatra::UserAgentHelpers)
+ * http://github.com/sinefunc/sinatra-support
+
 Agent sniff
 ===========
 
